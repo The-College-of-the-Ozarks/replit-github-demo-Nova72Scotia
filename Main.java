@@ -6,7 +6,7 @@ class Main {
       final int QUARTS_IN_GALLON = 4;
       int quartsNeeded = 18;
       int gallonsNeeded;
-      int extraQuartsNeeded;
+      int extraQuartsNeeded; // test
       Scanner input = new Scanner(System.in);
       System.out.print("Enter quarts needed >> ");
       quartsNeeded = input.nextInt();
